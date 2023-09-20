@@ -6,8 +6,10 @@
 //
 
 import SwiftUI
+import UIKit
 
 struct ContentView: View {
+    let color = UIColor(hex: "#EFF2CC")
     @State var title = "Hey"
     @State var text = ""
     var body: some View {
@@ -41,7 +43,7 @@ struct ContentView: View {
                     }
                 }
                 .navigationTitle(Text(NSLocalizedString("Correspondencia", comment: "")))
-                .toolbarBackground(Color.yellow, for: .navigationBar)
+                .toolbarBackground(Color(uiColor: color), for: .navigationBar)
                 .padding()
             }
             
