@@ -26,8 +26,6 @@ struct ContentView: View {
                                   textFieldTitle: NSLocalizedString("Fecha", comment: ""))
                     NameTextField(name: NSLocalizedString("Fecha de entrega:", comment: ""),
                                   textFieldTitle: NSLocalizedString("Fecha", comment: ""))
-                    NameTextField(name: NSLocalizedString("Correo electrónico:", comment: ""),
-                                  textFieldTitle: NSLocalizedString("Correo", comment: ""))
                     NameTextField(name: NSLocalizedString("Caso:", comment: ""),
                                   textFieldTitle: NSLocalizedString("Caso", comment: ""))
                     NameTextField(name: NSLocalizedString("Departamento asignado:", comment: ""),
