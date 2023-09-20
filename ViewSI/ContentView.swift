@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ViewSI
 //
-//  Created by Horacio Parra Rodriguez on 19/09/23.
+//  Created by Simon Parraga Fonseca on 19/09/23.
 //
 
 import SwiftUI
