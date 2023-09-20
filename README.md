@@ -1,5 +1,5 @@
 # CorrespondencyProject
 | Preview |
 | ------- |
-|![Simulator Screen Recording - iPhone 14 Pro - 2023-09-19 at 20 37 23](https://github.com/SSPF20/CorrespondencyProject/assets/97854435/272373a5-9113-40d3-9677-a6960cbd8c30)|
+|![Simulator Screen Recording - iPhone 14 Pro - 2023-09-19 at 20 52 13](https://github.com/SSPF20/CorrespondencyProject/assets/97854435/b2ae0a99-6de3-4ee9-a46a-86cd69654e09)|
 
